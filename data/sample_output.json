@@ -1,0 +1,21 @@
+[
+ {
+ "id": "7112413115530104090",
+ "type": "video",
+ "username": "elonmusk",
+ "title": "Exploring space with new designs",
+ "likes": 23400,
+ "comments": 180,
+ "shares": 57,
+ "music": {
+ "id": "7112413142386297627",
+ "title": "Space Vibes",
+ "artist": "DJ Stellar"
+ },
+ "video": {
+ "downloadAddr": "https://api.example.com/v2/key-value-stores/abc123/download",
+ "playAddr": "https://api.example.com/v2/key-value-stores/abc123/play"
+ },
+ "url": "https://www.tiktok.com/@elonmusk/video/7112413115530104090"
+ }
+]
