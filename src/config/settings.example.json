@@ -1,0 +1,11 @@
+{
+ "baseUrls": {
+ "videoSearch": "https://www.tiktok.com/api/search/general/full/",
+ "userSearch": "https://www.tiktok.com/api/search/user/full/",
+ "hashtagSearch": "https://www.tiktok.com/api/search/tag/full/"
+ },
+ "defaultLimit": 25,
+ "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+ "timeoutMs": 15000,
+ "notes": "This is an example configuration. You can copy it to settings.json and tweak values such as base URLs, limits, and timeout."
+}
